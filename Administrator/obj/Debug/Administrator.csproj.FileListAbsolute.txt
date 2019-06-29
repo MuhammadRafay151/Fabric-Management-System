@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\bin\Debug\Administrator.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.SignUp.resources
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.AdminProfile.resources
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.Administartor.resources
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\bin\Debug\Entities.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\bin\Debug\Entities.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\bin\Debug\Administrator.dll.config
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\bin\Debug\Administrator.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Administrator\obj\Debug\Administrator.dll
