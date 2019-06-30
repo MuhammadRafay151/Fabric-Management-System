@@ -1,0 +1,54 @@
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.Form1.resources
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.OrderTemplete.resources
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.Properties.Resources.resources
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PlaceHolder\bin\Debug\PlaceOrder.exe.config
+C:\Users\HP\Desktop\PlaceHolder\bin\Debug\PlaceOrder.exe
+C:\Users\HP\Desktop\PlaceHolder\bin\Debug\PlaceOrder.pdb
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.exe
+C:\Users\HP\Desktop\PlaceHolder\obj\Debug\PlaceOrder.pdb
+C:\Users\HP\Downloads\PlaceOrder\bin\Debug\PlaceOrder.exe.config
+C:\Users\HP\Downloads\PlaceOrder\bin\Debug\PlaceOrder.exe
+C:\Users\HP\Downloads\PlaceOrder\bin\Debug\PlaceOrder.pdb
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.Form1.resources
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.OrderTemplete.resources
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.Properties.Resources.resources
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.exe
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.pdb
+C:\Users\HP\Downloads\PlaceOrder\obj\Debug\PlaceOrder.Cart.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.csprojAssemblyReference.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.Cart.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.OrderTemplete.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.Properties.Resources.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.csproj.GenerateResource.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.csproj.CoreCompileInputs.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.Order.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\bin\Debug\PlaceOrder.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\bin\Debug\PlaceOrder.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\bin\Debug\PlaceOrder.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\bin\Debug\Entities.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\bin\Debug\Entities.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.csproj.CopyComplete
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PlaceOrder\obj\Debug\PlaceOrder.ViewItemDetails.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\bin\Debug\PlaceOrder.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\bin\Debug\PlaceOrder.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\bin\Debug\PlaceOrder.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\bin\Debug\Entities.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.csprojAssemblyReference.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.Cart.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.Order.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.OrderTemplete.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.Properties.Resources.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.ViewItemDetails.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.csproj.GenerateResource.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.csproj.CoreCompileInputs.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.csproj.CopyComplete
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\PlaceOrder\obj\Debug\PlaceOrder.pdb
