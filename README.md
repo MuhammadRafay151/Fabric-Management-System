@@ -29,4 +29,7 @@ Muhammad Ismail
 # Analysis
  Analysis of project was carried out throughout the semester with coopertaion of whole team.
 # Technology
-Programming Language C# 
+* Programming Language C# 
+* IDE Visual Studio 2019
+* Database sql server 2017
+* Sql Server Management Studio 18.0
