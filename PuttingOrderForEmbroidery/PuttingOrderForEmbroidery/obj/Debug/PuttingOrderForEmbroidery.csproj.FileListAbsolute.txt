@@ -1,0 +1,44 @@
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.exe.config
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.exe
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.pdb
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.Form1.resources
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.Properties.Resources.resources
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.GenerateResource.cache
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.CoreCompileInputs.cache
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.exe
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.pdb
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csprojAssemblyReference.cache
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\DynamicDateTimePicker.dll
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.CopyComplete
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\DynamicDateTimePicker.pdb
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\DynamicDateTimePicker.dll.config
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.Form1.resources
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.Properties.Resources.resources
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.pdb
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.pdb
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\DynamicDateTimePicker.dll
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\Entities.dll
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\DynamicDateTimePicker.pdb
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\Entities.pdb
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.CopyComplete
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.dll.config
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.dll
+C:\Users\HP\Downloads\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\PuttingOrderForEmbroidery.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\DynamicDateTimePicker.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\DynamicDateTimePicker.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\Entities.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csprojAssemblyReference.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.Form1.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.Properties.Resources.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.GenerateResource.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.CoreCompileInputs.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.csproj.CopyComplete
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\obj\Debug\PuttingOrderForEmbroidery.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\PuttingOrderForEmbroidery\PuttingOrderForEmbroidery\bin\Debug\Entities.dll
