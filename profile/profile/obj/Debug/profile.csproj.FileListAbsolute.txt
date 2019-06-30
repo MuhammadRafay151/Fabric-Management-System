@@ -1,0 +1,93 @@
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\bin\Debug\profile.exe.config
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\bin\Debug\profile.exe
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\bin\Debug\profile.pdb
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\obj\Debug\profile.csprojAssemblyReference.cache
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\obj\Debug\profile.Form1.resources
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\obj\Debug\profile.Properties.Resources.resources
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\obj\Debug\profile.csproj.GenerateResource.cache
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\obj\Debug\profile.csproj.CoreCompileInputs.cache
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\obj\Debug\profile.exe
+E:\UIT-NED\4th Semester\Introduction to Software Engineering\Project\profile\profile\obj\Debug\profile.pdb
+C:\Users\HP\Downloads\profile\profile\bin\Debug\profile.pdb
+C:\Users\HP\Downloads\profile\profile\obj\Debug\profile.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\profile\profile\obj\Debug\profile.Form1.resources
+C:\Users\HP\Downloads\profile\profile\obj\Debug\profile.Properties.Resources.resources
+C:\Users\HP\Downloads\profile\profile\obj\Debug\profile.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\profile\profile\obj\Debug\profile.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\profile\profile\obj\Debug\profile.pdb
+C:\Users\HP\Downloads\profile\profile\bin\Debug\profile.exe.config
+C:\Users\HP\Downloads\profile\profile\bin\Debug\profile.exe
+C:\Users\HP\Downloads\profile\profile\obj\Debug\profile.exe
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\profile.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.csprojAssemblyReference.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.Properties.Resources.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.csproj.GenerateResource.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.csproj.CoreCompileInputs.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.csproj.CopyComplete
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.Profile.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PlaceOrder.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PlaceOrder.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PlaceOrder.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\Entities.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\Entities.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\DynamicDateTimePicker.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForShipment.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForShipment.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\DynamicDateTimePicker.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForCalendar.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForCalendar.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForEmbroidery.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForEmbroidery.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForEmbroidery.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForStitching.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForStitching.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForStitching.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.CalendarBillView.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.EmbroideryBillView.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.ShipmentBillView.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.StitchingBillVIew.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.UserControl1.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForCalendar.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\PuttingOrderForShipment.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\profile.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\bin\Debug\profile.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\profile\profile\obj\Debug\profile.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\profile.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\Administrator.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\DynamicDateTimePicker.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\Entities.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PlaceOrder.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForCalendar.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForEmbroidery.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForShipment.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForStitching.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\Administrator.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\Administrator.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\DynamicDateTimePicker.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\Entities.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PlaceOrder.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PlaceOrder.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForCalendar.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForCalendar.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForEmbroidery.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForEmbroidery.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForShipment.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForShipment.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForStitching.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\PuttingOrderForStitching.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.csprojAssemblyReference.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.CalendarBillView.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.EmbroideryBillView.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.Profile.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.Properties.Resources.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.ShipmentBillView.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.StitchingBillVIew.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.UserControl1.resources
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.csproj.GenerateResource.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.csproj.CoreCompileInputs.cache
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.csproj.CopyComplete
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.pdb
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\profile.dll.config
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\bin\Debug\profile.dll
+D:\uit\4th semester\Introduction To Software Engineering\PROJECT\Project Files Code & DataBases\Code\profile\profile\obj\Debug\profile.dll
