@@ -1,0 +1,41 @@
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.exe.config
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.exe
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.pdb
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csprojAssemblyReference.cache
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.Form1.resources
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.Properties.Resources.resources
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.GenerateResource.cache
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.CoreCompileInputs.cache
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.exe
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.pdb
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.CopyComplete
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.exe.config
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.exe
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.pdb
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\DynamicDateTimePicker.dll
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csprojAssemblyReference.cache
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.Form1.resources
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.Properties.Resources.resources
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.GenerateResource.cache
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.CoreCompileInputs.cache
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.CopyComplete
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.exe
+C:\Users\Ismail Vohra\Desktop\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.pdb
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\DynamicDateTimePicker.dll
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\DynamicDateTimePicker.pdb
+C:\Users\Ismail Vohra\Documents\Visual Studio 2017\Projects\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\DynamicDateTimePicker.dll.config
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.pdb
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\DynamicDateTimePicker.pdb
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.Form1.resources
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.Properties.Resources.resources
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.csproj.CopyComplete
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.pdb
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\DynamicDateTimePicker.dll
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\Entities.dll
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\Entities.pdb
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.dll.config
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\bin\Debug\PuttingOrderForStitching.dll
+C:\Users\HP\Downloads\PuttingOrderForStitching\PuttingOrderForStitching\obj\Debug\PuttingOrderForStitching.dll
