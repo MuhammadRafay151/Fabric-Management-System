@@ -33,3 +33,4 @@ Muhammad Ismail
 * IDE Visual Studio 2019
 * Database sql server 2017
 * Sql Server Management Studio 18.0
+* Crystal Report tool
